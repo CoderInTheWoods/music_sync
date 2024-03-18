@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "233328601839",
+    "project_id": "musicsync-app",
+    "storage_bucket": "musicsync-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233328601839:android:96de63e920c3d2896f091a",
+        "android_client_info": {
+          "package_name": "com.example.music_sync"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfwOw2H8SFZvNRtuSFyWdd4fvD3EjRJ44"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
